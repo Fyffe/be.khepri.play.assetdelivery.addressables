@@ -10,9 +10,9 @@
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [
-        "Android",
         "Editor"
     ],
-    "excludePlatforms": [],
+    "excludePlatforms": [
+    ],
     "allowUnsafeCode": false
 }
